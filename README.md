@@ -1,0 +1,14 @@
+# Active Governance Framework
+
+This repository contains the experimental code and circuits for the paper: *"Active Governance: A Hierarchical Quantum Inference Framework for Coherent Information Preservation."*
+
+## Reproducibility
+To reproduce the empirical hardware validation results:
+1. **Environment:** Install the required dependencies via `pip install -r requirements.txt`.
+2. **Circuit Execution:** Run the files in `/circuits` on the IBM Kingston backend using the provided Qiskit runtime configuration.
+3. **VAE Training:** Use `/notebooks/train_vae.ipynb` to reconstruct the VAE-FFN controller weights.
+4. **Data Verification:** The noise profiles in `/data` mirror the Kingston backend calibration snapshot (2026-07-12).
+
+## Citation
+If you utilize this framework in your research, please cite our paper and the archival DOI:
+*[Zenodo DOI pending]*
