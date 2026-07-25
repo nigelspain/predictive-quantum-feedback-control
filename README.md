@@ -1,6 +1,6 @@
 # Active Governance Framework
 
-This repository contains the experimental code and circuits for the paper: *"Active Governance: A Hierarchical Quantum Inference Framework for Coherent Information Preservation."*
+This repository contains the experimental code and circuits for the paper: *"Real-Time Predictive Classical-Quantum Feedback Control on a Superconducting Quantum Processor."*
 
 ## Reproducibility
 To reproduce the empirical hardware validation results:
