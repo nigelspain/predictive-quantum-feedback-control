@@ -10,5 +10,4 @@ To reproduce the empirical hardware validation results:
 4. **Data Verification:** The noise profiles in `/data` mirror the Kingston backend calibration snapshot (2026-07-12).
 
 ## Citation
-If you utilize this framework in your research, please cite our paper and the archival DOI:
-*[Zenodo DOI pending]*
+If you utilize this framework in your research, please cite the paper and the archival DOI:https://doi.org/10.5281/zenodo.21610328
